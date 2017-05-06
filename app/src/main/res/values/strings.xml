@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BikeRepairEVRE</string>
+    <string name="comp_description">Bike shop kitted out with high end tools to tackle any challenge thrown at us.</string>
+    <string name="address">Ledge street 15, Padlov sect. NP 60040</string>
+    <string name="phone">+0375 968 69658 (mobile)</string>
+    <string name="email">bikerepaire-evre.org</string>
+    <string name="schedule">Mon-Fri   09:00-18:00  /  Sat   10:30-14:30</string>
+
+</resources>
